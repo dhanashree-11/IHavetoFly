@@ -8,9 +8,10 @@ Fly High is a simple and addictive 2D mobile game that challenges players' refle
 5. The game ends if the player collides with the bird.
 
 ### Features
-1. Simple Controls: Tap-based controls that are easy to pick up and play.</br>
-2. High Score: Keep track of your highest score and challenge yourself to beat it.</br>
-3. Leaderboard: Compete with friends and other players worldwide for the highest score.</br>
-4. Sound Effects: Enjoy the nostalgic sound effects that enhance the gaming experience.</br>
-5. Endless Gameplay: The game continues until the player collides, providing a never-ending challenge.</br>
-6. Share Results: Share your achievements on social media platforms directly from the game.</br>
+1. Easy controls
+2. high scores
+3. global leaderboard
+4. nostalgic sounds
+5. endless fun
+6. social sharing!</br>
+
