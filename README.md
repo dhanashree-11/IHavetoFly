@@ -15,3 +15,15 @@ Fly High is a simple and addictive 2D mobile game that challenges players' refle
 5. endless fun
 6. social sharing!</br>
 
+
+### UI
+<p align="center">
+<img src="1.jpg" alt="Logo" width="700" height="350">
+</p>
+<p align="center">
+<img src="2.jpg" alt="Logo" width="700" height="350">
+</p>
+<p align="center">
+<img src="3.jpg" alt="Logo" width="700" height="350">
+</p>
+
